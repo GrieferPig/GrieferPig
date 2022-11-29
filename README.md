@@ -2,7 +2,7 @@
 
 15岁，事brony(
 
-低技术力前后端开发者，只会jvav(script)? && python
+低技术力前后端开发者，material design单推人，只会jvav(script)? && python
 
 Projects currently doing: 
 - YeetOS, an Android UI variant for imoo(XTC) watches w/ msm8909w SoC
