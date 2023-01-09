@@ -18,3 +18,5 @@ Projects currently doing:
 [![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=GrieferPig&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
 YT/B站上有号
+
+OC by [pony-diffusion](https://huggingface.co/AstraliteHeart/pony-diffusion)
