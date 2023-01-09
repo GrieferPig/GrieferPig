@@ -4,9 +4,12 @@
 
 低技术力前后端开发者，material design单推人，只会jvav(script)? && python
 
+Finished projects:
+- [Papernome](https://github.com/GrieferPig/Papernome), metronome on your wrist!
+
 Projects currently doing: 
 - YeetOS, an Android UI variant for imoo(XTC) watches w/ msm8909w SoC
-- Pegasus Launcher, a Minecraft Launcher written in Rust, GUI powered by Tauri
+- [Pegasus Launcher](https://github.com/GrieferPig/Pegasus), a Minecraft Launcher written in Rust, GUI powered by Tauri
 - More to come
 
 在学rust
