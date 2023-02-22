@@ -6,9 +6,10 @@
 
 Finished projects:
 - [Papernome](https://github.com/GrieferPig/Papernome), metronome on your wrist!
+- (Archived, Working)[PonAImager-WebUI](https://github.com/GrieferPig/PonAImager-WebUI), A web UI for Stable Diffusion with a modern design similiar to stable-diffusion-ui
 
 Projects currently doing: 
-- [PonAImager-WebUI](https://github.com/GrieferPig/PonAImager-WebUI), A web UI for Stable Diffusion with a modern design similiar to stable-diffusion-ui
+- Zippify, a simple distortion/clipper VST2 Effect w/ GUI written in Rust
 - YeetOS, an Android UI variant for imoo(XTC) watches w/ msm8909w SoC
 - [Pegasus Launcher](https://github.com/GrieferPig/Pegasus), a Minecraft Launcher written in Rust, GUI powered by Tauri
 - More to come
