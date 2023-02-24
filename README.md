@@ -1,15 +1,15 @@
 # GrieferPig
 
-15岁，事brony(
+16岁，事brony(
 
 低技术力前后端开发者，material design单推人，只会jvav(script)? && python
 
 Finished projects:
+- Zippify, a simple distortion/clipper VST2 Effect w/ GUI written in Rust
 - [Papernome](https://github.com/GrieferPig/Papernome), metronome on your wrist!
 - (Archived, Working)[PonAImager-WebUI](https://github.com/GrieferPig/PonAImager-WebUI), A web UI for Stable Diffusion with a modern design similiar to stable-diffusion-ui
 
 Projects currently doing: 
-- Zippify, a simple distortion/clipper VST2 Effect w/ GUI written in Rust
 - YeetOS, an Android UI variant for imoo(XTC) watches w/ msm8909w SoC
 - [Pegasus Launcher](https://github.com/GrieferPig/Pegasus), a Minecraft Launcher written in Rust, GUI powered by Tauri
 - More to come
