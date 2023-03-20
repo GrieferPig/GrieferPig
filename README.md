@@ -7,7 +7,7 @@
 Finished projects:
 - Zippify, a simple distortion/clipper VST2 Effect w/ GUI written in Rust
 - [Papernome](https://github.com/GrieferPig/Papernome), metronome on your wrist!
-- (Archived, Working)[PonAImager-WebUI](https://github.com/GrieferPig/PonAImager-WebUI), A web UI for Stable Diffusion with a modern design similiar to stable-diffusion-ui
+- (Archived)[PonAImager-WebUI](https://github.com/GrieferPig/PonAImager-WebUI), A web UI for Stable Diffusion with a modern design similiar to stable-diffusion-ui
 
 Projects currently doing: 
 - YeetOS, an Android UI variant for imoo(XTC) watches w/ msm8909w SoC
