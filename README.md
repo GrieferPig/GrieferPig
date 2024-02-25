@@ -1,6 +1,6 @@
 # GrieferPig
 
-16岁，事brony(
+17岁，事brony(
 
 低技术力前后端开发者，material design单推人，只会jvav(script)? && python
 
