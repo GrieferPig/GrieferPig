@@ -1,6 +1,6 @@
 # GrieferPig
 
-18岁，事brony(
+($current_year % 2000) - 7 岁，事brony(
 
 低技术力前后端开发者，material design单推人，只会jvav(script)? && python
 
@@ -9,7 +9,7 @@ Finished projects:
 - [Papernome](https://github.com/GrieferPig/Papernome), metronome on your wrist!
 - (Archived)[PonAImager-WebUI](https://github.com/GrieferPig/PonAImager-WebUI), A web UI for Stable Diffusion with a modern design similiar to stable-diffusion-ui
 
-Projects currently doing: 
+Projects that are currently dead: 
 - YeetOS, an Android UI variant for imoo(XTC) watches w/ msm8909w SoC
 - [Pegasus Launcher](https://github.com/GrieferPig/Pegasus), a Minecraft Launcher written in Rust, GUI powered by Tauri
 - More to come
